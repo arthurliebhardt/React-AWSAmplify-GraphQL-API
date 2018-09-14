@@ -1,0 +1,20 @@
+{
+    "projectName": "myrestaurantapp",
+    "projectPath": "/Users/d064131/dev/privat/projects/voizzy/graphql/my-restaurant-app",
+    "defaultEditor": "code",
+    "frontendHandler": {
+        "javascript": "/Users/d064131/.nvm/versions/node/v9.11.1/lib/node_modules/@aws-amplify/cli/node_modules/amplify-frontend-javascript"
+    },
+    "javascript": {
+        "framework": "react",
+        "config": {
+            "SourceDir": "src",
+            "DistributionDir": "build",
+            "BuildCommand": "npm run-script build",
+            "StartCommand": "npm run-script start"
+        }
+    },
+    "providers": {
+        "awscloudformation": "/Users/d064131/.nvm/versions/node/v9.11.1/lib/node_modules/@aws-amplify/cli/node_modules/amplify-provider-awscloudformation"
+    }
+}
